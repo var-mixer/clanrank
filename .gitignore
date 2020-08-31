@@ -11,6 +11,7 @@ config.json
 clanrank.json
 cache.json
 rank_push.json
+line.json
 # vscode
 .vscode/
 # python
